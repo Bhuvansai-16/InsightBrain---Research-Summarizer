@@ -212,24 +212,3 @@ Contributions are welcome! Please follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Tavily for web search capabilities
-- Groq for AI inference
-- LangChain for AI orchestration
-- Streamlit for the frontend framework
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact: your-email@example.com
-
----
-
-**Made with ❤️ using AI and open-source tools**
